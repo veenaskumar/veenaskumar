@@ -16,7 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=veenaskumar&style=flat-square&color=blue" alt="view counter"/>
  
 </div>
-<h1></h1>
 
 ### 🔭 Glad to see you here!
    I'm an aspiring software enthusiast passionate about learning new technologies, creating innovative solutions, and eager to collaborate with others on exciting projects.
