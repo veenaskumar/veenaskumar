@@ -1,4 +1,8 @@
-
+ <h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+   I'm Veenas Kumar S
+</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -10,14 +14,12 @@
 </div><br />
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=veenaskumar&style=flat-square&color=blue" alt="view counter"/>
-  <h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+ 
 </div>
 <h1></h1>
 
-   :telescope: Student and aspiring software enthusiast passionate about learning new technologies, creating innovative solutions, and eager to collaborate with others on exciting projects.
+### 🔭 Glad to see you here!
+   I'm an aspiring software enthusiast passionate about learning new technologies, creating innovative solutions, and eager to collaborate with others on exciting projects.
 
    ### :hammer_and_wrench: Languages and Tools :
 
@@ -41,7 +43,7 @@
   
 ### :fire: My Stats :
 <br />
-<table border=0><tr><td valign="top" width="50%" >
+<table border=0 align="center"><tr><td valign="top" width="50%" >
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=veenaskumar&theme=dark&background=000000)](https://git.io/streak-stats)
 </td><td valign="top" width="50%">
