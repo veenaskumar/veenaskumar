@@ -18,7 +18,7 @@
 </div>
 
 ### 🔭 Glad to see you here!
-   I'm an aspiring software enthusiast passionate about learning new technologies, creating innovative solutions, and eager to collaborate with others on exciting projects.
+   I'm an aspiring software enthusiast and passionate about learning new technologies, creating innovative solutions, and eager to collaborate with others on exciting projects.
 
    ### :hammer_and_wrench: Languages and Tools :
 
