@@ -47,9 +47,6 @@
 <br />
 <table border=0 align="center"><tr><td valign="top" width="50%" >
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=veenaskumar&theme=dark&background=000000)](https://git.io/streak-stats)
-</td><td valign="top" width="50%">
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veenaskumar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </td></tr></table>  
