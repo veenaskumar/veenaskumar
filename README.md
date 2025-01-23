@@ -42,11 +42,4 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 
 </div>
-  
-### :fire: My Stats :
-<br />
-<table border=0 align="center"><tr><td valign="top" width="50%" >
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veenaskumar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</td></tr></table>  
